@@ -1,6 +1,6 @@
-#Udacity Data Engineering Project: Data Modeling with Postgres
+# Udacity Data Engineering Project: Data Modeling with Postgres
 
-##Introduction
+## Introduction
 
 We are given the following scenario:
 
