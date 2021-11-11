@@ -39,3 +39,4 @@ They'd like us to create a Postgres database with tables designed to optimize qu
 ## Running Scripts using Terminal
 * python create_tables.py *- uses functions create_database, drop_tables, and create_tables to create the database sparkifydb and the required tables*
 * python etl.py *- defines the main extract, transform, and load processes*
+![schema](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/339318/1586016120/Song_ERD.png)
